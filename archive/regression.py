@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("../data/output.csv")
+df = pd.read_csv("data/output.csv")
 
 df["tasa_rel_jovenes"] = df["dJ"] / df["Población total de jovenes (0-14)"]
 df["tasa_rel_adultos"] = df["dA"] / df["Población total de adultos (15-64)"]
