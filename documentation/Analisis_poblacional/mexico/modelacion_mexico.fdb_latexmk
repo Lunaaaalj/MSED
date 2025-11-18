@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1763141596.45678 "/Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/mexico/modelacion_mexico.tex" "modelacion_mexico.pdf" "modelacion_mexico" 1763141597.34142 0
-  "/Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/mexico/modelacion_mexico.tex" 1763141569.70958 47079 fe18b921591b26d83ee6fb4aaa3df54c ""
+["pdflatex"] 1763491503.46945 "/Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/mexico/modelacion_mexico.tex" "modelacion_mexico.pdf" "modelacion_mexico" 1763491504.34579 0
+  "/Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/mexico/modelacion_mexico.tex" 1763491467.13569 46322 8df57c8dc3faf37e8feed7827ad4bdc4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -11,6 +11,7 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm" 1136768653 3584 3c76ccb63eda935a68ba65ba9da29f1a ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ectt1095.tfm" 1136768653 1536 a988bfe554c1f79514bd46d13c3c64ce ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcit1095.tfm" 1136768653 1536 def86f38e7c277abfd84aadc9a74aa65 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tctt1095.tfm" 1136768653 1536 52374f37d7a013fe5a15c958e7ebe485 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -209,11 +210,10 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1752292931 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "modelacion_mexico.aux" 1763141597.27262 199 cf881951032bb59d391ebcb1235d7e97 "pdflatex"
-  "modelacion_mexico.out" 1763141597.01779 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "modelacion_mexico.tex" 1763141569.70958 47079 fe18b921591b26d83ee6fb4aaa3df54c ""
-  "modelacion_mexico_files/modelacion_mexico_3_0.png" 1763141569.70935 39772 b43dff34a472b233a1dfec4244672f8b ""
-  "modelacion_mexico_files/modelacion_mexico_4_1.png" 1763141569.70945 32934 be9d269fcf841ec1841df672cb9127a4 ""
+  "modelacion_mexico.aux" 1763491504.27536 199 cf881951032bb59d391ebcb1235d7e97 "pdflatex"
+  "modelacion_mexico.out" 1763491504.04664 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "modelacion_mexico.tex" 1763491467.13569 46322 8df57c8dc3faf37e8feed7827ad4bdc4 ""
+  "modelacion_mexico_files/modelacion_mexico_3_0.png" 1763491437.18561 40465 c5175a3752c1764acf31e73551e08796 ""
   (generated)
   "modelacion_mexico.aux"
   "modelacion_mexico.log"

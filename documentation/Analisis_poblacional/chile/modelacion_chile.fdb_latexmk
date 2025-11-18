@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1763141442.86084 "/Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/chile/modelacion_chile.tex" "modelacion_chile.pdf" "modelacion_chile" 1763141443.93295 0
-  "/Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/chile/modelacion_chile.tex" 1763141364.27669 46841 ea75812b62e78672f9476db136171ba5 ""
+["pdflatex"] 1763492011.40439 "/Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/Analisis_poblacional/chile/modelacion_chile.tex" "modelacion_chile.pdf" "modelacion_chile" 1763492012.28039 0
+  "/Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/Analisis_poblacional/chile/modelacion_chile.tex" 1763492010.13042 43620 8ab5bccbcd9104c213b72dba0432bb0d ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -209,11 +209,10 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1752292931 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "modelacion_chile.aux" 1763141443.85759 199 7e12da42027f675fb52c254ab7c0c477 "pdflatex"
-  "modelacion_chile.out" 1763141443.57119 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "modelacion_chile.tex" 1763141364.27669 46841 ea75812b62e78672f9476db136171ba5 ""
-  "modelacion_chile_files/modelacion_chile_2_0.png" 1763141364.27646 42686 a18f7d3c923e4e7efe79abab8d9faa44 ""
-  "modelacion_chile_files/modelacion_chile_3_1.png" 1763141364.27655 39089 ad67adb7b02e16ecf3e2a41d6ba7a715 ""
+  "modelacion_chile.aux" 1763492012.20888 199 cf881951032bb59d391ebcb1235d7e97 "pdflatex"
+  "modelacion_chile.out" 1763492011.99552 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "modelacion_chile.tex" 1763492010.13042 43620 8ab5bccbcd9104c213b72dba0432bb0d ""
+  "modelacion_chile_files/modelacion_chile_2_0.png" 1763491221.74164 43131 1d6bb20184d03679bd017076f767249d ""
   (generated)
   "modelacion_chile.aux"
   "modelacion_chile.log"

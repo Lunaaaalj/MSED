@@ -1,8 +1,8 @@
-PWD /Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/chile
+PWD /Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/Analisis_poblacional/chile
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/chile/modelacion_chile.tex
+INPUT /Users/angelluna/Documents/STEM_PROJECTS/vscode/LaTeX/MSED-E1/documentation/Analisis_poblacional/chile/modelacion_chile.tex
 OUTPUT modelacion_chile.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -377,11 +377,6 @@ INPUT ./modelacion_chile_files/modelacion_chile_2_0.png
 INPUT ./modelacion_chile_files/modelacion_chile_2_0.png
 INPUT ./modelacion_chile_files/modelacion_chile_2_0.png
 INPUT ./modelacion_chile_files/modelacion_chile_2_0.png
-INPUT ./modelacion_chile_files/modelacion_chile_3_1.png
-INPUT ./modelacion_chile_files/modelacion_chile_3_1.png
-INPUT ./modelacion_chile_files/modelacion_chile_3_1.png
-INPUT ./modelacion_chile_files/modelacion_chile_3_1.png
-INPUT ./modelacion_chile_files/modelacion_chile_3_1.png
 INPUT modelacion_chile.aux
 INPUT ./modelacion_chile.out
 INPUT ./modelacion_chile.out
